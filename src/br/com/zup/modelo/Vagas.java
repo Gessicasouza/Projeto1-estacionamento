@@ -2,6 +2,7 @@ package br.com.zup.modelo;
 
 public class Vagas {
 
+<<<<<<< HEAD
 	// Atributos das vagas
 	private String tipoVaga;
 	private boolean livre;
@@ -61,4 +62,6 @@ public class Vagas {
 		return modelo;
 	}
 			
+=======
+>>>>>>> 04542fde10385886df262b30de3ac6df8c6841e5
 }
